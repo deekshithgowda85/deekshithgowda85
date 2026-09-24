@@ -3,16 +3,13 @@
 
 <div align="center">
 
-<img src="./.github/profile/header.svg" width="100%" alt="Deekshith Gowda H S - Full Stack and Backend Engineer"/>
+<img src="https://raw.githubusercontent.com/deekshithgowda85/deekshithgowda85/main/banner.svg" width="100%" alt="Deekshith Gowda H S - Full Stack and Backend Engineer"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Java+%26+Spring+Boot+%7C+Microservices;Event-driven+systems+%7C+Kafka+%26+Redis;Docker+%7C+DevOps+%7C+Application+Security;B.Tech+CSE+%40+REVA+University" alt="Typing SVG"/>
 </a>
 
 </div>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Java+%26+Spring+Boot+%7C+Microservices;Event-driven+systems+%7C+Kafka+%26+Redis;Docker+%7C+DevOps+%7C+Application+Security;B.Tech+CSE+%40+REVA+University" alt="Typing SVG" />
-</a>
 
 <br/>
 
